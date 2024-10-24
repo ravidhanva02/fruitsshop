@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fruitsshop/static/css/main.c7391e0a.css",
+    "main.js": "/fruitsshop/static/js/main.8284fae8.js",
+    "index.html": "/fruitsshop/index.html",
+    "main.c7391e0a.css.map": "/fruitsshop/static/css/main.c7391e0a.css.map",
+    "main.8284fae8.js.map": "/fruitsshop/static/js/main.8284fae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7391e0a.css",
+    "static/js/main.8284fae8.js"
+  ]
+}
